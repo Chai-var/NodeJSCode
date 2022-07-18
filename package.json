@@ -21,7 +21,7 @@
     "server": "^1.0.37"
   },
   "devDependencies": {
-    "eslint": "8.7.0",
+    "eslint": "8.20.0",
     "prettier": "^2.5.1"
   }
 }
